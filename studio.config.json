@@ -1,19 +1,4 @@
 {
   "packages": {
-    "dir": "",
-    "menu": [
-      [
-        "TOKENS",
-        []
-      ],
-      [
-        "COMPONENTS",
-        []
-      ],
-      [
-        "INFRASTRUCTURE",
-        []
-      ]
-    ]
-  }
+    "dir": "design-system/"
 }

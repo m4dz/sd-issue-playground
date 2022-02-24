@@ -1,0 +1,10 @@
+{
+"button": {
+    "background-color": {
+    "value": "{color.beige.100}"
+    },
+    "color": {
+    "value": "{color.black.100}"
+    }
+}
+}
